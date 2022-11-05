@@ -3,7 +3,7 @@ docker commands
 
 ## Some useful commands
 
-View downloaded images: docker images
+View downloaded images: docker images /n
 View all containers: docker container ls -a
 View all running containers: docker container ls -a
 Start a container: docker start CONTAINER_NAME
