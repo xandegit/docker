@@ -15,3 +15,4 @@ Stop a container: docker stop CONTAINER_NAME
 
 Remove a container: docker rm CONTAINER_ID
 
+List containers: docker ps
